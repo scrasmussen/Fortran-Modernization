@@ -1,6 +1,7 @@
 # Tasks
-A list of tasks for a suite of source-to-source tools whose overarching goal is to make modernizing old Fortran code easier.
+A list of tasks for modernizing old Fortran code.
 
 1. Change type*n to type( ktp ).
-2. 
+2. Common blocks to Fortran modules.
+3. Cray pointers to Fortran pointers.
 
